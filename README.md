@@ -12,7 +12,7 @@ Course page for Practical Web Dev - Fall 2022
 - Intro to full-stack web development ([slides](https://drive.google.com/file/d/18YqsGnvIbXXrw9kHoE55iXHCNxub_obS/view?usp=sharing))
 
 **Git and GitHub**
-- Intro to Git and GitHub ([slides](https://drive.google.com/file/d/14UYeaFLAVbUUPZXDwOtI9DS8G874UY7A/view?usp=sharing))
+- Intro to Git and GitHub ([slides](https://drive.google.com/file/d/1uDhgeLlv4EQM0hBZeFaVvtupWyXHwUyj/view?usp=sharing))
 - Guide on How to Set Up SSH Keys for Git and GitHub ([document](https://drive.google.com/file/d/1EdDNwJFnV0igch_gbW6KlGduXkzHggkp/view?usp=sharing))
 - Description of Feature Branch Workflow Operation ([document](https://drive.google.com/file/d/1b_yKhYVBZcDv1W_hu95o_NbimJbnxaz5/view?usp=sharing))
 - Guide on How to Set Up Team Repository on GitHub ([document](https://drive.google.com/file/d/1fYTXkg2V4Z85M_vVMM2QZBcPDz27Gy7d/view?usp=sharing))
