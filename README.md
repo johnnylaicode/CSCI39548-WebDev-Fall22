@@ -282,4 +282,3 @@ Course page for Practical Web Dev - Fall 2022
 
 **Work on Final Project - Full-Stack CRUD Application**
 - Final Project is due on Monday, 12/19, at 11:59 PM.
-  
