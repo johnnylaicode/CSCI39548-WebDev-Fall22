@@ -57,7 +57,7 @@ Course page for Practical Web Dev - Fall 2022
 **JavaScript**
 - Intro to JavaScript ([slides](https://drive.google.com/file/d/1smH5D_r3WOJKTmc76FQocKVZ0e8MnS2m/view?usp=sharing))
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
-   - Sections: Defining a Function, Bindings and Scopes, Functions as Values, Declaration Notation, Arrow Functions, Optional Arguments, Closure, Functions and Side Effects
+   - Sections: Defining a Function, Bindings and Scopes, Functions as Values, Declaration Notation, Arrow Functions, Optional Arguments, Functions and Side Effects
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
    - Sections: Data Sets, Properties, Methods, Objects, Mutability, Array Loops, Further Arrayology, Strings and Their Properties, Rest Parameters, JSON
 
