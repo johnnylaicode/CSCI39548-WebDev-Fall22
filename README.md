@@ -87,7 +87,7 @@ Course page for Practical Web Dev - Fall 2022
 - **[Starter code for Assignment 2 (templates)](https://github.com/johnnylaicode/javascript-methods-starter-code)**
 
 **Demo**
-- JavaScript method examples ([javascript-method-examples](https://gist.github.com/johnnylaicode/cad4215ea93d5cfe0cb856e9bde8c5f9))
+- JavaScript property and method examples ([javascript-property-method-examples](https://gist.github.com/johnnylaicode/cad4215ea93d5cfe0cb856e9bde8c5f9))
 
 **Document Object Model (DOM)**
 - Intro to DOM ([slides](https://drive.google.com/file/d/1jmLi7OlUfxZA9SlafiWwSHTi5vP94baL/view?usp=sharing))
