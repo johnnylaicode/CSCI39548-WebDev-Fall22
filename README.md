@@ -115,7 +115,7 @@ Course page for Practical Web Dev - Fall 2022
 - [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
-***Continue:*** **Intro to Assignment 3**
+**Intro to Assignment 3**
 - ### [Assignment 3 - Grid Maker](https://docs.google.com/document/d/1MepawXNhBXpkhtyvzqGwbRiwtuDdGSzk/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
 - **[Starter code for Assignment 3](https://github.com/johnnylaicode/grid-maker-starter-code)**
 
