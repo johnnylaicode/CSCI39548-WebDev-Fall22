@@ -83,7 +83,7 @@ Course page for Practical Web Dev - Fall 2022
    - Sections: Abstraction, Abstracting Repetition, Higher-Order Functions, Transforming with Map, Summarizing with Reduce, Bindings and Scopes, Functions as Values, Declaration Notation, Arrow Functions, Optional Arguments, Closure, Functions and Side Effects
 
 **Intro to Assignment 2**
-- ### [**Assignment 2 - JavaScript Methods**](https://docs.google.com/document/d/1zRL4wmnlKqKgfaxR7UExCSPz7QEStDwH/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
+- ### [**Assignment 2 - JavaScript Methods**](https://docs.google.com/document/d/1fyccjUBtsxx1bHTZke5q2Zag0xX3uAhB/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
 - **[Starter code for Assignment 2 (templates)](https://github.com/johnnylaicode/javascript-methods-starter-code)**
 
 **Demo**
