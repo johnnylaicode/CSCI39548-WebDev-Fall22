@@ -132,9 +132,11 @@ Course page for Practical Web Dev - Fall 2022
 ----------
 ## Class 6 (10/11, 10/13)
 **React**
-- [React Docs: Creating React App](https://17.reactjs.org/docs/create-a-new-react-app.html)
+- [React Docs: Create a New React App](https://17.reactjs.org/docs/create-a-new-react-app.html)
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
+   - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
+- NPM (Node Package Manager), NVM (Node.js Version Manager), NPX (Node Package Execute)
 
 **Demo**
 - A simple React application - Hello World
