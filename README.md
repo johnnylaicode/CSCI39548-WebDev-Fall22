@@ -137,6 +137,7 @@ Course page for Practical Web Dev - Fall 2022
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
 - NPM (Node Package Manager), NVM (Node.js Version Manager), NPX (Node Package Execute)
+- React App Structure and Data Flow ([slides](https://drive.google.com/file/d/1dhRG-M9TnFsrRUOJa4a7Kr4qrMOj9mWo/view?usp=sharing))
 
 **Demo**
 - A simple React application - Hello World
