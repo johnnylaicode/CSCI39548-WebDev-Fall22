@@ -58,8 +58,10 @@ Course page for Practical Web Dev - Fall 2022
 - Intro to JavaScript ([slides](https://drive.google.com/file/d/1smH5D_r3WOJKTmc76FQocKVZ0e8MnS2m/view?usp=sharing))
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
    - Sections: Defining a Function, Bindings and Scopes, Functions as Values, Declaration Notation, Arrow Functions, Optional Arguments, Functions and Side Effects
+   - Chapter 3: Functions (summary)
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
    - Sections: Data Sets, Properties, Methods, Objects, Mutability, Array Loops, Further Arrayology, Strings and Their Properties, Rest Parameters, JSON
+   - Chapter 4: Objects and Arrays (summary)
 
 **Node.js**
 - [Install Node.js via Download](https://nodejs.org/en/download/)
@@ -135,7 +137,7 @@ Course page for Practical Web Dev - Fall 2022
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
 - NPM (Node Package Manager), NVM (Node.js Version Manager), NPX (Node Package Execute)
-- React App Structure and Data Flow
+- React App Structure and Data Flow (summary)
 
 **Demo**
 - A simple React application - Hello World
@@ -182,7 +184,7 @@ Course page for Practical Web Dev - Fall 2022
 ----------
 ## Class 8 (10/25, 10/27)
 **React Router**
-- Single-Page Application and Client-Side Routing ([slides](https://drive.google.com/file/d/1eG3GKVJPxnmQCNnyBv7qlqnBqjt8QRUU/view?usp=sharing))
+- Single-Page Application and Client-Side Routing (summary)
 - Intro to React Router ([slides](https://drive.google.com/file/d/1Y4ZwIDnq8CehSFPIsgfqhd3GMsUln9zl/view?usp=sharing))
 
 **Intro to Assignment 4**
