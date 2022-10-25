@@ -58,10 +58,10 @@ Course page for Practical Web Dev - Fall 2022
 - Intro to JavaScript ([slides](https://drive.google.com/file/d/1smH5D_r3WOJKTmc76FQocKVZ0e8MnS2m/view?usp=sharing))
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
    - Sections: Defining a Function, Bindings and Scopes, Functions as Values, Declaration Notation, Arrow Functions, Optional Arguments, Functions and Side Effects
-   - Chapter 3: Functions (summary)
+   - Chapter 3: Functions (*summary*)
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
    - Sections: Data Sets, Properties, Methods, Objects, Mutability, Array Loops, Further Arrayology, Strings and Their Properties, Rest Parameters, JSON
-   - Chapter 4: Objects and Arrays (summary)
+   - Chapter 4: Objects and Arrays (*summary*)
 
 **Node.js**
 - [Install Node.js via Download](https://nodejs.org/en/download/)
@@ -137,7 +137,7 @@ Course page for Practical Web Dev - Fall 2022
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
 - NPM (Node Package Manager), NVM (Node.js Version Manager), NPX (Node Package Execute)
-- React App Structure and Data Flow (summary)
+- React App Structure and Data Flow (*summary*)
 
 **Demo**
 - A simple React application - Hello World
@@ -184,8 +184,8 @@ Course page for Practical Web Dev - Fall 2022
 ----------
 ## Class 8 (10/25, 10/27)
 **React Router**
-- Single-Page Application and Client-Side Routing (summary)
-- Intro to React Router ([slides](https://drive.google.com/file/d/1Y4ZwIDnq8CehSFPIsgfqhd3GMsUln9zl/view?usp=sharing))
+- Single-Page Application and Client-Side Routing (*summary*)
+- Intro to React Router ([slides](https://drive.google.com/file/d/1hgwPyZzvKDtftmdgSWdahXR4xGWCm42z/view?usp=sharing))
 
 **Intro to Assignment 4**
 - ### [Assignment 4 - Bank of React](https://gist.github.com/johnnylaicode/ba1f979e0d9106d4e21ffa03dcf0370f)
@@ -202,8 +202,8 @@ Course page for Practical Web Dev - Fall 2022
 ## Class 9 (11/1, 11/3)
 **Redux**
 - Managing state in React applications with Redux
-- Intro to Redux ([slides](https://drive.google.com/file/d/1H_sm9RDGrBO7AfJtHUN_yow1jtlDpIXS/view?usp=sharing))
-- Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/14UUhdGYG17VwzpUaL-UhCGwG_6qwUri9/view?usp=sharing))
+- Intro to Redux ([slides](https://drive.google.com/file/d/1-29VywoNhkyx80Dx6rdRACZo8PaTvSKz/view?usp=sharing))
+- Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/1DtR-CR7e_NOLr434MNZ44BlniYHFXTVo/view?usp=sharing))
 - [React Application Examples (Component 6): Redux and Thunk](https://github.com/johnnylaicode/react-examples)
 
 **Demo**
