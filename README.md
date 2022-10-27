@@ -190,6 +190,7 @@ Course page for Practical Web Dev - Fall 2022
 **Intro to Assignment 4**
 - ### [Assignment 4 - Bank of React](https://gist.github.com/johnnylaicode/ba1f979e0d9106d4e21ffa03dcf0370f)
 - **[Example (starter) code for Assignment 4](https://github.com/johnnylaicode/bank-of-react-example-code-gh-pages)** (website deployed to GitHub Pages)
+- Assignment 4 - Bank of React (Starter Code) Overview (*summary*)
 
 **Recommended materials for next class**
 - Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
