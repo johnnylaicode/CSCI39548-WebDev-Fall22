@@ -217,7 +217,7 @@ Course page for Practical Web Dev - Fall 2022
 ----------
 ## Class 10 (11/8, 11/10)
 **Intro to Final Project**
-- ### [Final Project - Full-Stack CRUD Application](https://docs.google.com/document/d/1MCqGbfVQk0kcT3gCwf8fHBNz7LAO2RCY/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
+- ### [Final Project - Full-Stack CRUD Application](https://docs.google.com/document/d/1pdR-B9PstJ8vqCyTBULzv-pJdbYxwG7m/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
 - **[Client starter code for Final Project](https://github.com/johnnylaicode/client-starter-code)**
 - **[Server starter code for Final Project](https://github.com/johnnylaicode/server-starter-code)**
 
