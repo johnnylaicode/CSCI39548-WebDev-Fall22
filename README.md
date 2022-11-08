@@ -208,6 +208,7 @@ Course page for Practical Web Dev - Fall 2022
 - [React Application Examples (Component 6): Redux and Thunk](https://github.com/johnnylaicode/react-examples)
 
 **Demo**
+- Use Redux in "Ticking Clock" React application ([react-ticking-clock-app](https://github.com/johnnylaicode/react-ticking-clock-app) and [react-redux-ticking-clock-app ](https://github.com/johnnylaicode/react-redux-ticking-clock-app))
 - React application example code (Component 6)
 
 **Work on the following items**
