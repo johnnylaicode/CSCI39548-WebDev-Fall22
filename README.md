@@ -263,6 +263,9 @@ Course page for Practical Web Dev - Fall 2022
 - [Add an existing project to GitHub](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
 ----------
+## Thursday, 11/24 - NO CLASS. College is closed (Thanksgiving).
+
+----------
 ## Class 12 (11/22, 11/29)
 ***Continue:*** **Back-End Application (Final Project)**
 - *Continue:* Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
