@@ -240,9 +240,9 @@ Course page for Practical Web Dev - Fall 2022
 ### *Reminder:* Assignment 4 - Bank of React is due on Friday, 11/18, at 11:59 PM.
 
 **RESTful API, Express, and Sequelize**
-- RESTful API ([slides](https://drive.google.com/file/d/1MG0Ac4evjuP2yQBbRrgNzBbnSfRZZoSE/view?usp=sharing))
-- Intro to Express ([slides](https://drive.google.com/file/d/1Jc6xT47ZxVYdoRs3u_LHGKfb42i8ueXv/view?usp=sharing))
-- Intro to ORM and Sequelize ([slides](https://drive.google.com/file/d/1ON3TuZWXS1ThsOWR05nc0aDOqf_ubetY/view?usp=sharing))
+- RESTful API ([slides](https://drive.google.com/file/d/1QLJmwRLnsc8g6Tbp12pA6MfF9WTX26GE/view?usp=share_link))
+- Intro to Express ([slides](https://drive.google.com/file/d/153YB1EgN6ielLMojMOXUqX_-ArUuG_mL/view?usp=share_link))
+- Intro to ORM and Sequelize ([slides](https://drive.google.com/file/d/1kUcZNI4Xtn3cAgfjhIW5thA-xIjEjpyT/view?usp=share_link))
 
 **Back-End Application (Final Project)**
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
