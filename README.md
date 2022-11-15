@@ -9,7 +9,7 @@ Course page for Practical Web Dev - Fall 2022
 - *Note: The above information is available on Blackboard.*
 
 **Full-Stack Web Development**
-- Intro to full-stack web development ([slides](https://drive.google.com/file/d/18YqsGnvIbXXrw9kHoE55iXHCNxub_obS/view?usp=sharing))
+- Intro to full-stack web development ([slides](https://drive.google.com/file/d/11MsdIeAxX2G4SY5RvAYuN7d26XPcegGm/view?usp=share_link))
 
 **Git and GitHub**
 - Intro to Git and GitHub ([slides](https://drive.google.com/file/d/1uDhgeLlv4EQM0hBZeFaVvtupWyXHwUyj/view?usp=sharing))
