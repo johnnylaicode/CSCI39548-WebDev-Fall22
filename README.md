@@ -246,11 +246,11 @@ Course page for Practical Web Dev - Fall 2022
 
 **Back-End Application (Final Project)**
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
+- Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
 
 **Demo**
 - RESTful API and test using Postman
 - Express routing feature examples ([express-routing](https://github.com/johnnylaicode/express-routing))
-- Postgres psql
 
 **Supplemental Materials**
 - [Tutorial: Setting up a simple Node application with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
@@ -270,13 +270,16 @@ Course page for Practical Web Dev - Fall 2022
 ***Continue:*** **Back-End Application (Final Project)**
 - *Continue:* Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 
+**Demo**
+- Postgres psql
+
 **Work on Final Project - Full-Stack CRUD Application**
 
 ----------
 ## Class 13 (12/1, 12/6)
 ### *Reminder:* Complete Teacher Evaluation
 
-**Review for Course Assessment Test**
+**Review for Course Assessment Test (optional extra credit)**
 - Review document and example questions/answers for Course Assessment Test
 - *Note: The above information is available on Blackboard.*
 
